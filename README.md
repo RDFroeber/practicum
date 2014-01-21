@@ -1,4 +1,4 @@
-practicum
+Practicum
 =========
 
-3 months in review
+All rights reserved to [Peter Lai]("https://github.com/peterylai"). 
